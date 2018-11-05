@@ -1,7 +1,7 @@
 # ICCAD-18_Adversarial_Training
 This repository has the source code to repeat the experiments presented in the ICCAD18 paper title: Enhancing Adversarial Training towards Robust Machine Learners and its Analysis.
 
-DATASET: Mnist Digits and Mnist Fashion are datasets used for experimentation and can be found online. YOu can also use other datasets like cifar-10
+DATASET: Mnist Digits and Mnist Fashion are datasets used for experimentation and can be found online. You can also use other datasets like cifar-10
 
 MODELS: The model folder consists of two models, Artificial Neural Network and Re-trained ANN model(Adversarial Training). You can even use your own  models (ANN,DNN,CNN) instead of the one's provided
 
