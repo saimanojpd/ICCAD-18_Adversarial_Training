@@ -7,4 +7,4 @@ MODELS: The model folder consists of two models, Artificial Neural Network and R
 
 ATTACK: Attack folder consists of the different attacks and can be easily adapted to be used. For example, you just need to provide the attack models with the ANN model or your model (ANN,DNN,CNN) and execute the attack.
 
-LIBRARY SUPPORT: Keras,Tensorflow,Numpy,Pandas,Matplotlib and adversarial attacks are modelled using Cleverhans
+LIBRARY SUPPORT: Keras, Tensorflow, Numpy, Pandas, Matplotlib and adversarial attacks are modelled using Cleverhans
